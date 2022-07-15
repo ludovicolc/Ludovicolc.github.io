@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #000000;            /* questo è il colore del testo interno */
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #fff;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -134,13 +134,13 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #fff;
+		color: #000000;      /* questo è il colore dei titoli */
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #000000;
 			text-decoration: none;
 		}
 
